@@ -1,0 +1,4 @@
+accounts/*.json
+accounts/.lock
+*.log
+.DS_Store
